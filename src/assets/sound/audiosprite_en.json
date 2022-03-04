@@ -1,0 +1,314 @@
+{
+  "resources": [
+    "audiosprite.wav",
+    "audiosprite.ac3",
+    "audiosprite.mp3",
+    "audiosprite.mp4",
+    "audiosprite.m4a",
+    "audiosprite.ogg",
+    "audiosprite.opus",
+    "audiosprite.webm"
+  ],
+  "spritemap": {
+    "0": {
+      "start": 0,
+      "end": 0.6236054421768708,
+      "loop": false
+    },
+    "1": {
+      "start": 2,
+      "end": 2.523356009070295,
+      "loop": false
+    },
+    "2": {
+      "start": 24,
+      "end": 24.54417233560091,
+      "loop": false
+    },
+    "3": {
+      "start": 46,
+      "end": 46.60140589569161,
+      "loop": false
+    },
+    "4": {
+      "start": 62,
+      "end": 62.6137641723356,
+      "loop": false
+    },
+    "5": {
+      "start": 64,
+      "end": 64.6343537414966,
+      "loop": false
+    },
+    "6": {
+      "start": 66,
+      "end": 66.59083900226757,
+      "loop": false
+    },
+    "7": {
+      "start": 68,
+      "end": 68.61469387755102,
+      "loop": false
+    },
+    "8": {
+      "start": 70,
+      "end": 70.41022675736961,
+      "loop": false
+    },
+    "9": {
+      "start": 72,
+      "end": 72.58560090702947,
+      "loop": false
+    },
+    "10": {
+      "start": 4,
+      "end": 4.434580498866213,
+      "loop": false
+    },
+    "11": {
+      "start": 6,
+      "end": 6.609070294784581,
+      "loop": false
+    },
+    "12": {
+      "start": 8,
+      "end": 8.617369614512471,
+      "loop": false
+    },
+    "13": {
+      "start": 10,
+      "end": 10.762879818594104,
+      "loop": false
+    },
+    "14": {
+      "start": 12,
+      "end": 12.717233560090703,
+      "loop": false
+    },
+    "15": {
+      "start": 14,
+      "end": 14.687482993197278,
+      "loop": false
+    },
+    "16": {
+      "start": 16,
+      "end": 16.728820861678006,
+      "loop": false
+    },
+    "17": {
+      "start": 18,
+      "end": 18.735147392290248,
+      "loop": false
+    },
+    "18": {
+      "start": 20,
+      "end": 20.623673469387754,
+      "loop": false
+    },
+    "19": {
+      "start": 22,
+      "end": 22.688798185941042,
+      "loop": false
+    },
+    "20": {
+      "start": 26,
+      "end": 26.55668934240363,
+      "loop": false
+    },
+    "21": {
+      "start": 28,
+      "end": 28.740589569161,
+      "loop": false
+    },
+    "22": {
+      "start": 30,
+      "end": 30.72045351473923,
+      "loop": false
+    },
+    "23": {
+      "start": 32,
+      "end": 32.76668934240363,
+      "loop": false
+    },
+    "24": {
+      "start": 34,
+      "end": 34.75918367346939,
+      "loop": false
+    },
+    "25": {
+      "start": 36,
+      "end": 36.87226757369614,
+      "loop": false
+    },
+    "26": {
+      "start": 38,
+      "end": 38.818775510204084,
+      "loop": false
+    },
+    "27": {
+      "start": 40,
+      "end": 40.83226757369614,
+      "loop": false
+    },
+    "28": {
+      "start": 42,
+      "end": 42.794920634920636,
+      "loop": false
+    },
+    "29": {
+      "start": 44,
+      "end": 44.8802947845805,
+      "loop": false
+    },
+    "30": {
+      "start": 48,
+      "end": 48.56659863945578,
+      "loop": false
+    },
+    "31": {
+      "start": 50,
+      "end": 50.79249433106576,
+      "loop": false
+    },
+    "32": {
+      "start": 52,
+      "end": 52.81292517006803,
+      "loop": false
+    },
+    "33": {
+      "start": 54,
+      "end": 54.84990929705216,
+      "loop": false
+    },
+    "34": {
+      "start": 56,
+      "end": 56.82113378684807,
+      "loop": false
+    },
+    "35": {
+      "start": 58,
+      "end": 58.85965986394558,
+      "loop": false
+    },
+    "36": {
+      "start": 60,
+      "end": 60.87569160997732,
+      "loop": false
+    },
+    "audio_on": {
+      "start": 74,
+      "end": 74.15571428571428,
+      "loop": false
+    },
+    "ball_on_number": {
+      "start": 76,
+      "end": 80.68748299319728,
+      "loop": false
+    },
+    "ballremove": {
+      "start": 82,
+      "end": 85.5,
+      "loop": false
+    },
+    "ballrun": {
+      "start": 87,
+      "end": 93,
+      "loop": false
+    },
+    "black": {
+      "start": 94,
+      "end": 94.54562358276644,
+      "loop": false
+    },
+    "btn2": {
+      "start": 96,
+      "end": 96.04691609977324,
+      "loop": false
+    },
+    "game_will_start": {
+      "start": 98,
+      "end": 99.97326530612244,
+      "loop": false
+    },
+    "jeton": {
+      "start": 101,
+      "end": 101.11378684807256,
+      "loop": false
+    },
+    "limit": {
+      "start": 103,
+      "end": 103.21614512471655,
+      "loop": false
+    },
+    "no_more_bets": {
+      "start": 105,
+      "end": 106.31496598639455,
+      "loop": false
+    },
+    "place": {
+      "start": 108,
+      "end": 109.51077097505669,
+      "loop": false
+    },
+    "red": {
+      "start": 111,
+      "end": 111.55893424036282,
+      "loop": false
+    },
+    "removejeton": {
+      "start": 113,
+      "end": 113.6,
+      "loop": false
+    },
+    "rge_odo_end": {
+      "start": 115,
+      "end": 117.0004081632653,
+      "loop": false
+    },
+    "rge_odo_start": {
+      "start": 119,
+      "end": 122.25204081632653,
+      "loop": false
+    },
+    "rge_win_02": {
+      "start": 124,
+      "end": 126.75,
+      "loop": false
+    },
+    "rge_win_06": {
+      "start": 128,
+      "end": 131.1255328798186,
+      "loop": false
+    },
+    "rge_win_09": {
+      "start": 133,
+      "end": 136.5,
+      "loop": false
+    },
+    "rge_win_12": {
+      "start": 138,
+      "end": 142.39256235827665,
+      "loop": false
+    },
+    "rge_win_18": {
+      "start": 144,
+      "end": 148.37501133786847,
+      "loop": false
+    },
+    "rge_win_36": {
+      "start": 150,
+      "end": 155.57133786848073,
+      "loop": false
+    },
+    "selectjeton": {
+      "start": 157,
+      "end": 157.0609523809524,
+      "loop": false
+    },
+    "silence": {
+      "start": 159,
+      "end": 159.49709750566893,
+      "loop": false
+    }
+  }
+}
